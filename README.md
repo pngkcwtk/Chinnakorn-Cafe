@@ -272,7 +272,7 @@ This project follows a simplified **Model-View-Controller (MVC)** architectural 
 | 👤 **Authors** | [@pngkcwtk](https://github.com/pngkcwtk) & [@Varanapat](https://github.com/Varanapat) |
 | 🎓 **Course** | 06066302 Fundamental Web Programming (2568) |
 | 🏫 **Department** | Data Science and Business Analytics (DSBA), KMITL |
-| 📄 **Report** | [docs/W-10-Report.md](./docs/W-10-Report.md) & [PDF Document](./docs/W-10-Report.pdf) |
+| 📄 **Report** | [PDF Document](./docs/W-10-Report.pdf) |
 | 🎥 **Video Demo** | [YouTube Project Presentation](https://youtu.be/W1cmUQQcVVk) |
 | 📁 **Project** | **CHINNAKORN Cafe** |
 
