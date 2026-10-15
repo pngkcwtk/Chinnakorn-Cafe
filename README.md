@@ -71,7 +71,6 @@ Chinnakorn-Cafe/
 ├── README.md                           # Project documentation & overview
 │
 ├── docs/                               # Project reports & presentation documents
-│   ├── W-10-Report.md                  # Week 10 / Final project report (Markdown)
 │   └── W-10-Report.pdf                 # Full project report (89-page PDF document)
 │
 └── code_ing/                           # Main application source code
