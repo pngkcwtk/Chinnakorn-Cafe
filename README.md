@@ -283,3 +283,7 @@ This project follows a simplified **Model-View-Controller (MVC)** architectural 
 Made with ☕ & ❤️ for **CHINNAKORN Cafe** (2568)
 
 </div>
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
